@@ -1,4 +1,4 @@
-Hlor Token is a ERC-20 Token on the Ethereum Blockchain as a decentralized solution.
+Hlor Token is ERC-20 Token on the Ethereum Blockchain as a decentralized solution.
 
 Later, Hlor Tokens on Ethereum will be converted to native Hlor Coins on the Hlor Blockchain. 
 
